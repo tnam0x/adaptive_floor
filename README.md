@@ -12,7 +12,7 @@ It ensures accurate results without floating-point errors.
 ## 📌 Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/PrecisionFloor.git
+git clone https://github.com/tnam0x/adaptive_floor.git
 ```
 or install via pip:
 ```sh
