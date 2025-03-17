@@ -29,7 +29,7 @@ pip install adaptive-floor
 from adaptive_floor import adaptive_floor
 
 # Floor a number to 3 decimal places
-print(floor_to_precision(12.34567, 3))  # Output: 12.345
+print(adaptive_floor(12.34567, 3))  # Output: 12.3456
 
 # Adaptive flooring based on fractional part
 print(adaptive_floor(0.004567))  # Output: 0.00456 (auto-determined decimals)
