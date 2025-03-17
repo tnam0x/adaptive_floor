@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="adapter_floor",
-    version="0.1.3",
+    version="0.1.4",
     description="A lightweight Python library for precise number flooring and formatting. Includes adaptive decimal precision based on the fractional magnitude.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
