@@ -20,7 +20,7 @@ git clone https://github.com/tnam0x/adaptive_floor.git
 or install via pip:
 
 ```sh
-pip install adaptive_floor
+pip install adaptive-floor
 ```
 
 ## 📖 Usage
