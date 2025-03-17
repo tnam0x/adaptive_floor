@@ -32,7 +32,7 @@ from adaptive_floor import adaptive_floor
 print(floor_to_precision(12.34567, 3))  # Output: 12.345
 
 # Adaptive flooring based on fractional part
-print(adaptive_floor(0.004567))  # Output: 0.00457 (auto-determined decimals)
+print(adaptive_floor(0.004567))  # Output: 0.00456 (auto-determined decimals)
 ```
 
 ## 📜 License
