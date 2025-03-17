@@ -37,4 +37,5 @@ print(adaptive_floor(0.004567))  # Output: 0.00456 (auto-determined decimals)
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+See the [LICENSE](./LICENSE) file for details.
