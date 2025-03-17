@@ -26,7 +26,7 @@ pip install adaptive_floor
 ## 📖 Usage
 
 ```python
-from precisionfloor import floor_to_precision, adaptive_floor
+from adaptive_floor import adaptive_floor
 
 # Floor a number to 3 decimal places
 print(floor_to_precision(12.34567, 3))  # Output: 12.345

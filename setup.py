@@ -3,7 +3,9 @@ from setuptools import setup, find_packages
 setup(
     name="adapter_floor",
     version="0.1.0",
-    description="A Python library for precise number flooring with adaptive decimal precision.",
+    description="A lightweight Python library for precise number flooring and formatting. Includes adaptive decimal precision based on the fractional magnitude.",
+    long_description=open("README.md").read(),
+    long_description_content_type="text/markdown",
     author="Nam Tran",
     author_email="namtran4194@gmail.com",
     url="https://github.com/tnam0x/adaptive_floor",
